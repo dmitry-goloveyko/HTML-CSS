@@ -1,0 +1,21 @@
+﻿@font-face { 
+    font-family:'SourceSansProBlack'; 
+    src:url('fonts/SourceSansPro-Black.ttf');
+}
+
+.sitename {
+    width:47%;
+    height:100%;
+    float:left;
+    display:table;
+}
+
+.sitename p {
+    height:100%;
+    padding-left:375px;
+    font-size:32px;
+    font-family:'SourceSansProBlack';
+    vertical-align:middle;
+    display:table-cell;
+    color:#637f83;
+}

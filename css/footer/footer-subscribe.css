@@ -1,0 +1,118 @@
+﻿@font-face { 
+    font-family:'SourceSansPro-Bold'; 
+    src:url('fonts/SourceSansPro-Bold.ttf');
+}
+
+@font-face { 
+    font-family:'SourceSansPro-Black'; 
+    src:url('fonts/SourceSansPro-Black.ttf');
+}
+
+@font-face { 
+    font-family:'SourceSansPro-Regular'; 
+    src:url('fonts/SourceSansPro-Regular.ttf');
+}
+
+.footer-subscribe {
+    margin:0;
+    width:100%;
+    height:193px;
+    background-color:#637f83;
+}
+
+.footer-subscribe-newsletter {
+    border: none;
+    margin-left: 19.7%;
+    margin-right: 0;
+    padding-top: 1.8%;
+    width: 31.6%;
+    height: 20%;
+    float: left;
+}
+
+.footer-subscribe-newsletter img {
+    float:left;
+    margin-top:1%;
+}
+
+.footer-subscribe-newsletter p {
+    margin: 0% 10% 0 3%;
+    float: left;
+    font-family: 'SourceSansPro-Bold';
+    font-size: 17px;
+    color: #ffffff;
+    letter-spacing: 0.3px;
+}
+
+.footer-subscribe-newsletter p:nth-child(2n+1) {
+    margin: 0.4% 0 0 3%;
+    float: left;
+    font-family: 'SourceSansPro-Light';
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.footer-subscribe-newsletter input {
+    margin: 4.3% 0 0 0;
+    float: left;
+    height: 95%;
+    width: 76%;
+    border: none;
+    border-radius: 5px;
+    background-color: #597275;
+    font-family: 'SourceSansPro-Regular';
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.footer-subscribe-newsletter button {
+    margin: 11.2% 0 0 24%;
+    height: 102%;
+    width: 16.2%;
+    border: none;
+    border-radius: 5px;
+    background-color: #597275;
+    font-family: 'SourceSansPro-Black';
+    font-size: 19px;
+    color: #ffffff;
+}
+
+.footer-subscribe-newsletter button:hover {
+    margin: 11.2% 0 0 24%;
+    height: 102%;
+    width: 16.2%;
+    border: none;
+    border-radius: 5px;
+    background-color: #000000;
+    font-family: 'SourceSansPro-Black';
+    font-size: 19px;
+    color: #ffffff;
+}
+
+.footer-twitter {
+    border:none;
+    border-radius:5px;
+    margin-top:2.1%;
+    width:30%;
+    height:52%;
+    background-color:#597275;
+    float:left;
+    font-family:'SourceSansPro-Regular'; 
+    font-size:15px;
+    color:#b5c7c9;
+    padding-top:3px;
+}
+
+.footer-twitter a {
+    font-family:'SourceSansPro-Regular'; 
+    font-size:13px;
+    color:#ffffff;
+}
+
+.footer-twitter img {
+    margin:5%;
+    margin-top:4%;
+    background-color:#597275;
+    float:left;
+}
+

@@ -1,0 +1,23 @@
+﻿@font-face { 
+    font-family:'SourceSansPro-Regular'; 
+    src:url('fonts/SourceSansPro-Regular.ttf');
+}
+
+.footer-resources-div {
+    width:100%;
+    height:87px;
+    background-color:#637f83;
+    display:table;
+}
+
+.footer-resources-div p{
+    width: 100%;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: #ffffff;
+    font-family: 'SourceSansPro-Regular';
+    font-size: 14px;
+    padding-left: 1%;
+}
+

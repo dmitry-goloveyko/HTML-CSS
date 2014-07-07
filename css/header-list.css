@@ -1,0 +1,79 @@
+﻿@font-face { 
+    font-family:'SourceSansPro-Bold'; 
+    src:url('fonts/SourceSansPro-Bold.ttf');
+}
+
+.header-list {
+    width:53%;
+    height:100%;
+    float:left;
+    display:inline-block;
+}
+
+.header ul {
+    height:100%;
+    margin: 0px 0px 0px 2.4%;
+}
+
+.header ul img{
+    margin:20% 0 0 29%;
+}
+
+.header ul li.first {
+    height:100%;
+    margin:0 1.7% 0 0;
+    display:inline-block;
+}
+
+.header ul li.second {
+    height:100%;
+    margin:0 3.3% 0 0;
+    display:inline-block;
+}
+
+.header ul li.third {
+    height:100%;
+    margin:0 3.3% 0 0;
+    display:inline-block;
+}
+
+.header ul li.fourth {
+    height:100%;
+    margin:0 3.4% 0 0;
+    display:inline-block;
+}
+
+.header ul li.fifth {
+    height:100%;
+    margin:0 3.4% 0 0;
+    display:inline-block;
+}
+
+.header ul li.sixth {
+    height:100%;
+    margin:0 3% 0 0;
+    display:inline-block;
+}
+
+.header ul li button {
+    border:none;
+    background-color:ActiveBorder;
+    margin:3px 0 0 0;
+    display:inline-block;
+    font-family:'SourceSansPro-Bold';
+    font-size:15px;
+    letter-spacing:1px;
+    color:#637f83;
+}
+
+.header ul li button:hover {
+    border:none;
+    background-color:ActiveBorder;
+    margin:3px 0 0 0;
+    display:inline-block;
+    font-family:'SourceSansPro-Bold';
+    font-size:15px;
+    letter-spacing:1px;
+    color:#e4551d;
+}
+

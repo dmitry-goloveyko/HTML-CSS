@@ -1,0 +1,100 @@
+﻿@font-face { 
+    font-family:'PTSans'; 
+    src:url('fonts/PTSans.ttf');
+}
+
+@font-face { 
+    font-family:'Lato'; 
+    src:url('fonts/Lato-Regular.ttf');
+}
+
+.banner {
+    height: 520px;
+    width:100%;
+    background-image: url('../images/banner.png');
+    background-size: cover;
+    margin: 0px;
+    display:table;
+    text-align:center;
+}
+
+.banner-title {
+    width: 25.5%;
+    height: 41.6%;
+    margin: 0;
+    padding: 0 0 0 37.5%;
+    text-align: center;
+    display: table;
+    vertical-align: bottom;
+}
+
+.banner-title a{
+    width: 100%;
+    color: #ffffff;
+    font-size: 40px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: bottom;
+    font-family: 'PTSans';
+    letter-spacing: 3.2px;
+}
+
+.banner-span-div1 {
+    width:100%;
+    display:table;
+    text-align:center;
+    padding-top:1%;
+}
+
+.banner-span-div2 {
+    width: 100%;
+    display: table;
+    text-align: center;
+    padding-top: 0.4%;
+}
+
+.banner-span1 {
+    width: 100%;
+    color: #ffffff;
+    display: table-cell;
+    font-family: 'Lato';
+    padding-top: 0.4%;
+    padding-left: 0.6%;
+    letter-spacing: 3px;
+}
+
+.banner-span2 {
+    width: 100%;
+    color: #ffffff;
+    display: table-cell;
+    font-family: 'Lato';
+    padding-left: 0.7%;
+    letter-spacing: 3px;
+}
+
+.banner-button-div{
+    width:100%;
+    vertical-align:middle;
+}
+
+.banner-button {
+    margin-top: 1.9%;
+    margin-left: 0.7%;
+    height:70px;
+    width:70px;
+    background-color:#e4551d;
+    border-color:#e4551d;
+    border-radius:50px;
+    border:none;
+}
+
+.banner-button:hover {
+    margin-top: 1.9%;
+    margin-left: 0.7%;
+    height:70px;
+    width:70px;
+    background-color:#000000;
+    border-color:#e4551d;
+    border-radius:50px;
+    border:none;
+}
